@@ -89,6 +89,50 @@ If the task gets completed , it should be checked and a snackbar will be display
 
 ![image](https://github.com/Satheeshkumar0807/Yavar_Hackathon/assets/111192171/1872663e-3a52-4ee1-8706-95e23533e309)
 
+# Backend API's
+
+# For SignUp
+
+![image](https://github.com/Satheeshkumar0807/Yavar_Hackathon/assets/111192171/61a4c64f-7ce0-42ee-8e21-97a3be30aa0b)
+
+# For Login 
+
+![image](https://github.com/Satheeshkumar0807/Yavar_Hackathon/assets/111192171/f18eb4aa-e556-483b-9cbd-fedb67abed23)
+
+The Authentication is based on JWT which helps us from not storing the token in db .
+
+# For Profile
+
+The Token must be placed in Authorization Header for all operations after login.
+
+![image](https://github.com/Satheeshkumar0807/Yavar_Hackathon/assets/111192171/c8c2237b-0f88-4e68-91d8-f862b9239c85)
+
+# For getting all the task
+
+![image](https://github.com/Satheeshkumar0807/Yavar_Hackathon/assets/111192171/8f3bb72f-7799-4439-bfe4-142243e12302)
+
+# For adding a task
+
+![image](https://github.com/Satheeshkumar0807/Yavar_Hackathon/assets/111192171/4fe18972-7fd3-4566-a700-e7a6e343a902)
+
+# For Editing a task
+
+The Task_ID should be passed in the path .
+
+![image](https://github.com/Satheeshkumar0807/Yavar_Hackathon/assets/111192171/c5fe4b3e-8f38-4602-a304-459f1a335785)
+
+# For Deleting a task
+
+![image](https://github.com/Satheeshkumar0807/Yavar_Hackathon/assets/111192171/6dbac4b7-cead-4bc6-a451-c765e611f8c1)
+
+# For Stats
+
+
+![image](https://github.com/Satheeshkumar0807/Yavar_Hackathon/assets/111192171/15c60a7d-3359-4eaa-9001-e373c9019e70)
+
+
+
+
 
 
 
